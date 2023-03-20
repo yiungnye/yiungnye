@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jeremy Chan Yue Nang</h1>
-<h3 align="center">A passionate frontend developer from Mauritius</h3>
-
+- Hi 👋, I'm Jeremy Chan Yue Nang
+- 👀 I’m interested in tech and movies.
 - 🔭 I’m currently working on **Coconini**
+- 🌱 I’m currently learning Javascript
 
 <p align="left">
 </p>
