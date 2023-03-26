@@ -1,7 +1,7 @@
 - Hi 👋, I'm Jeremy Chan Yue Nang
 - 👀 I’m interested in tech, food and movies.
 - 🔭 I’m currently working on **Coconini**
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Javascript
 
 <p align="left">
 </p>
